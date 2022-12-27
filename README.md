@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/Razorpay-02042B?style=for-the-badge&logo=razorpay&logoColor=3395FF" alt="razorpay" />
 </p>
 
-<h3 align="center"><a href="https://aakash-limbani-nikeclone.netlify.app/"><strong>Want to see live preview »</strong></a></h3>
+<h3 align="center"><a href="https://aakash-limbani-nike-clone.vercel.app/"><strong>Want to see live preview »</strong></a></h3>
 
 <p align="center">
   <br />&#10023;
